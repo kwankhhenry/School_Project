@@ -1,0 +1,212 @@
+File instruments.csv is read successfully!
+File marketdata.csv is read successfully!
+Evaluating C option ID: 10000497...Bid volatility = 0.524942 Ask volatility = 0.565271
+Evaluating C option ID: 10000498...Bid volatility = 0.533909 Ask volatility = 0.614184
+Evaluating C option ID: 10000499...Bid volatility = 0.576262 Ask volatility = 0.66162
+Evaluating C option ID: 10000500...Bid volatility = 0.659172 Ask volatility = 0.707688
+Evaluating C option ID: 10000501...Bid volatility = 0.657567 Ask volatility = 0.729669
+Evaluating P option ID: 10000502...Bid volatility = -nan Ask volatility = 1.16104
+Evaluating P option ID: 10000503...Bid volatility = -nan Ask volatility = 2.03279
+Evaluating P option ID: 10000504...Bid volatility = 4.97803 Ask volatility = 2.04833
+Evaluating P option ID: 10000505...Bid volatility = -nan Ask volatility = 2.1361
+Evaluating P option ID: 10000506...Bid volatility = -nan Ask volatility = 2.22172
+Evaluating C option ID: 10000507...Bid volatility = 0.46374 Ask volatility = 0.496898
+Evaluating C option ID: 10000508...Bid volatility = 0.499075 Ask volatility = 0.528882
+Evaluating P option ID: 10000509...Bid volatility = -nan Ask volatility = 1.7331
+Evaluating P option ID: 10000510...Bid volatility = -nan Ask volatility = 1.83821
+Evaluating C option ID: 10000511...Bid volatility = 0.408128 Ask volatility = 0.427915
+Evaluating C option ID: 10000512...Bid volatility = 0.431686 Ask volatility = 0.455611
+Evaluating P option ID: 10000513...Bid volatility = -nan Ask volatility = 0.653897
+Evaluating P option ID: 10000514...Bid volatility = -nan Ask volatility = 1.61932
+Evaluating C option ID: 10000519...Bid volatility = 0.39516 Ask volatility = 0.422717
+Evaluating C option ID: 10000520...Bid volatility = 0.394589 Ask volatility = 0.408464
+Evaluating P option ID: 10000521...Bid volatility = -nan Ask volatility = 0.49138
+Evaluating P option ID: 10000522...Bid volatility = -nan Ask volatility = 0.561395
+Evaluating C option ID: 10000527...Bid volatility = 0.373237 Ask volatility = 0.379547
+Evaluating P option ID: 10000528...Bid volatility = 0.344916 Ask volatility = 0.398127
+Evaluating C option ID: 10000533...Bid volatility = 0.366728 Ask volatility = 0.378685
+Evaluating P option ID: 10000534...Bid volatility = 0.320232 Ask volatility = 0.377592
+Evaluating C option ID: 10000539...Bid volatility = 0.361675 Ask volatility = 0.359809
+Evaluating P option ID: 10000540...Bid volatility = 0.352502 Ask volatility = 0.362766
+Evaluating C option ID: 10000547...Bid volatility = 0.324257 Ask volatility = 0.445351
+Evaluating C option ID: 10000548...Bid volatility = 0.345696 Ask volatility = 0.356727
+Evaluating P option ID: 10000549...Bid volatility = 0.347329 Ask volatility = 0.360058
+Evaluating P option ID: 10000550...Bid volatility = 0.348722 Ask volatility = 0.364699
+Evaluating C option ID: 10000565...Bid volatility = 0.382495 Ask volatility = 0.376768
+Evaluating P option ID: 10000566...Bid volatility = 0.355992 Ask volatility = 0.37958
+      ID   Type   Expiry Strike T    Bid    Ask   BidVol   AskVol        Last Update
+  510050 Equity        0      0 S  1.958  1.959        0        0 2016-Feb-16 09:30:59.765946
+10000497 Option 20160224    2.4 C 0.0002 0.0004 0.524942 0.565271 2016-Feb-16 09:30:50.732113
+10000498 Option 20160224   2.45 C 0.0001 0.0004 0.533909 0.614184 2016-Feb-16 09:30:16.194735
+10000499 Option 20160224    2.5 C 0.0001 0.0004 0.576262  0.66162 2016-Feb-16 09:30:16.194791
+10000500 Option 20160224   2.55 C 0.0002 0.0004 0.659172 0.707688 2016-Feb-16 09:30:16.194872
+10000501 Option 20160224    2.6 C 0.0001 0.0003 0.657567 0.729669 2016-Feb-16 09:30:16.194895
+10000502 Option 20160224    2.4 P 0.3912 0.4682     -nan  1.16104 2016-Feb-16 09:30:36.695071
+10000503 Option 20160224   2.45 P 0.4803 0.5824     -nan  2.03279 2016-Feb-16 09:30:36.695133
+10000504 Option 20160224    2.5 P 0.4828 0.6251  4.97803  2.04833 2016-Feb-16 09:30:36.695167
+10000505 Option 20160224   2.55 P  0.533  0.675     -nan   2.1361 2016-Feb-16 09:30:35.707840
+10000506 Option 20160224    2.6 P 0.5827  0.725     -nan  2.22172 2016-Feb-16 09:30:36.695185
+10000507 Option 20160224    2.3 C 0.0004 0.0007  0.46374 0.496898 2016-Feb-16 09:30:46.264144
+10000508 Option 20160224   2.35 C 0.0003 0.0005 0.499075 0.528882 2016-Feb-16 09:30:38.152041
+10000509 Option 20160224    2.3 P 0.2977 0.4331     -nan   1.7331 2016-Feb-16 09:30:59.767570
+10000510 Option 20160224   2.35 P 0.3599 0.4829     -nan  1.83821 2016-Feb-16 09:30:58.737448
+10000511 Option 20160224    2.2 C 0.0011 0.0015 0.408128 0.427915 2016-Feb-16 09:30:59.767615
+10000512 Option 20160224   2.25 C 0.0006 0.0009 0.431686 0.455611 2016-Feb-16 09:30:52.248091
+10000513 Option 20160224    2.2 P 0.2444 0.2581     -nan 0.653897 2016-Feb-16 09:30:47.251819
+10000514 Option 20160224   2.25 P 0.2533  0.383     -nan  1.61932 2016-Feb-16 09:30:46.264387
+10000519 Option 20160224    2.1 C 0.0059 0.0076  0.39516 0.422717 2016-Feb-16 09:30:58.737495
+10000520 Option 20160224   2.15 C 0.0024 0.0029 0.394589 0.408464 2016-Feb-16 09:30:58.737515
+10000521 Option 20160224    2.1 P  0.143 0.1599     -nan  0.49138 2016-Feb-16 09:30:55.718885
+10000522 Option 20160224   2.15 P 0.1819  0.208     -nan 0.561395 2016-Feb-16 09:30:57.225048
+10000527 Option 20160224   2.05 C 0.0112 0.0119 0.373237 0.379547 2016-Feb-16 09:30:59.767757
+10000528 Option 20160224   2.05 P 0.1078 0.1112 0.344916 0.398127 2016-Feb-16 09:30:59.767787
+10000533 Option 20160224      2 C 0.0227 0.0243 0.366728 0.378685 2016-Feb-16 09:30:54.725411
+10000534 Option 20160224      2 P 0.0667  0.072 0.320232 0.377592 2016-Feb-16 09:30:59.767809
+10000539 Option 20160224   1.95 C 0.0422 0.0425 0.361675 0.359809 2016-Feb-16 09:30:59.767843
+10000540 Option 20160224   1.95 P   0.04 0.0407 0.352502 0.362766 2016-Feb-16 09:30:59.768001
+10000547 Option 20160224   1.85 C 0.1072 0.1167 0.324257 0.445351 2016-Feb-16 09:30:57.732684
+10000548 Option 20160224    1.9 C   0.07 0.0718 0.345696 0.356727 2016-Feb-16 09:30:58.737588
+10000549 Option 20160224   1.85 P 0.0076 0.0083 0.347329 0.360058 2016-Feb-16 09:30:59.768032
+10000550 Option 20160224    1.9 P 0.0192 0.0205 0.348722 0.364699 2016-Feb-16 09:30:58.231175
+10000565 Option 20160224    1.8 C 0.1547 0.1554 0.382495 0.376768 2016-Feb-16 09:30:59.768077
+10000566 Option 20160224    1.8 P 0.0027 0.0035 0.355992  0.37958 2016-Feb-16 09:30:59.768098
+Evaluating C option ID: 10000497...Bid volatility = 0.527292 Ask volatility = 0.567774
+Evaluating C option ID: 10000498...Bid volatility = 0.573335 Ask volatility = 0.616666
+Evaluating C option ID: 10000499...Bid volatility = 0.61803 Ask volatility = 0.664083
+Evaluating C option ID: 10000500...Bid volatility = 0.661472 Ask volatility = 0.710134
+Evaluating C option ID: 10000501...Bid volatility = 0.703746 Ask volatility = 0.732038
+Evaluating P option ID: 10000502...Bid volatility = -nan Ask volatility = 1.13233
+Evaluating P option ID: 10000503...Bid volatility = -nan Ask volatility = 2.01866
+Evaluating P option ID: 10000504...Bid volatility = 2.98912 Ask volatility = 2.03213
+Evaluating P option ID: 10000505...Bid volatility = 4.2375 Ask volatility = 2.06354
+Evaluating P option ID: 10000506...Bid volatility = -nan Ask volatility = 2.20473
+Evaluating C option ID: 10000507...Bid volatility = 0.466299 Ask volatility = 0.499609
+Evaluating C option ID: 10000508...Bid volatility = 0.501535 Ask volatility = 0.531468
+Evaluating P option ID: 10000509...Bid volatility = 4.20661 Ask volatility = 1.71933
+Evaluating P option ID: 10000510...Bid volatility = -nan Ask volatility = 0.927921
+Evaluating C option ID: 10000511...Bid volatility = 0.411083 Ask volatility = 0.426007
+Evaluating C option ID: 10000512...Bid volatility = 0.434393 Ask volatility = 0.450698
+Evaluating P option ID: 10000513...Bid volatility = -nan Ask volatility = 0.621328
+Evaluating P option ID: 10000514...Bid volatility = -nan Ask volatility = 1.60607
+Evaluating C option ID: 10000519...Bid volatility = 0.399192 Ask volatility = 0.420206
+Evaluating C option ID: 10000520...Bid volatility = 0.391171 Ask volatility = 0.41192
+Evaluating P option ID: 10000521...Bid volatility = 0.283455 Ask volatility = 0.421571
+Evaluating P option ID: 10000522...Bid volatility = -nan Ask volatility = 0.531705
+Evaluating C option ID: 10000527...Bid volatility = 0.372971 Ask volatility = 0.381967
+Evaluating P option ID: 10000528...Bid volatility = 0.334369 Ask volatility = 0.377396
+Evaluating C option ID: 10000533...Bid volatility = 0.373045 Ask volatility = 0.382259
+Evaluating P option ID: 10000534...Bid volatility = 0.338171 Ask volatility = 0.365043
+Evaluating C option ID: 10000539...Bid volatility = 0.361832 Ask volatility = 0.373071
+Evaluating P option ID: 10000540...Bid volatility = 0.349252 Ask volatility = 0.364804
+Evaluating C option ID: 10000547...Bid volatility = 0.350931 Ask volatility = 0.388623
+Evaluating C option ID: 10000548...Bid volatility = 0.344707 Ask volatility = 0.366614
+Evaluating P option ID: 10000549...Bid volatility = 0.344447 Ask volatility = 0.34816
+Evaluating P option ID: 10000550...Bid volatility = 0.337796 Ask volatility = 0.355757
+Evaluating C option ID: 10000565...Bid volatility = 0.429207 Ask volatility = 0.459661
+Evaluating P option ID: 10000566...Bid volatility = 0.349589 Ask volatility = 0.375973
+      ID   Type   Expiry Strike T    Bid    Ask   BidVol   AskVol        Last Update
+  510050 Equity        0      0 S  1.956  1.957        0        0 2016-Feb-16 09:31:59.935368
+10000497 Option 20160224    2.4 C 0.0002 0.0004 0.527292 0.567774 2016-Feb-16 09:31:38.361685
+10000498 Option 20160224   2.45 C 0.0002 0.0004 0.573335 0.616666 2016-Feb-16 09:31:38.361716
+10000499 Option 20160224    2.5 C 0.0002 0.0004  0.61803 0.664083 2016-Feb-16 09:31:59.936645
+10000500 Option 20160224   2.55 C 0.0002 0.0004 0.661472 0.710134 2016-Feb-16 09:31:38.361784
+10000501 Option 20160224    2.6 C 0.0002 0.0003 0.703746 0.732038 2016-Feb-16 09:31:57.890185
+10000502 Option 20160224    2.4 P 0.3912 0.4682     -nan  1.13233 2016-Feb-16 09:31:38.361823
+10000503 Option 20160224   2.45 P 0.4803 0.5825     -nan  2.01866 2016-Feb-16 09:31:38.361846
+10000504 Option 20160224    2.5 P 0.4828 0.6251  2.98912  2.03213 2016-Feb-16 09:31:38.361884
+10000505 Option 20160224   2.55 P  0.533   0.67   4.2375  2.06354 2016-Feb-16 09:31:38.361917
+10000506 Option 20160224    2.6 P 0.5827  0.725     -nan  2.20473 2016-Feb-16 09:31:38.361961
+10000507 Option 20160224    2.3 C 0.0004 0.0007 0.466299 0.499609 2016-Feb-16 09:31:51.864558
+10000508 Option 20160224   2.35 C 0.0003 0.0005 0.501535 0.531468 2016-Feb-16 09:31:38.362025
+10000509 Option 20160224    2.3 P  0.305 0.4331  4.20661  1.71933 2016-Feb-16 09:31:56.343197
+10000510 Option 20160224   2.35 P 0.3937 0.4113     -nan 0.927921 2016-Feb-16 09:31:57.890434
+10000511 Option 20160224    2.2 C 0.0011 0.0014 0.411083 0.426007 2016-Feb-16 09:31:59.936745
+10000512 Option 20160224   2.25 C 0.0006 0.0008 0.434393 0.450698 2016-Feb-16 09:31:50.871956
+10000513 Option 20160224    2.2 P 0.2482 0.2581     -nan 0.621328 2016-Feb-16 09:31:59.936797
+10000514 Option 20160224   2.25 P 0.2803  0.383     -nan  1.60607 2016-Feb-16 09:31:41.807430
+10000519 Option 20160224    2.1 C 0.0059 0.0072 0.399192 0.420206 2016-Feb-16 09:31:57.890471
+10000520 Option 20160224   2.15 C 0.0022 0.0029 0.391171  0.41192 2016-Feb-16 09:31:57.337702
+10000521 Option 20160224    2.1 P  0.152  0.157 0.283455 0.421571 2016-Feb-16 09:31:56.343266
+10000522 Option 20160224   2.15 P 0.1971  0.208     -nan 0.531705 2016-Feb-16 09:31:56.343293
+10000527 Option 20160224   2.05 C 0.0108 0.0117 0.372971 0.381967 2016-Feb-16 09:31:55.361333
+10000528 Option 20160224   2.05 P 0.1087 0.1111 0.334369 0.377396 2016-Feb-16 09:31:56.343341
+10000533 Option 20160224      2 C 0.0227  0.024 0.373045 0.382259 2016-Feb-16 09:31:59.936870
+10000534 Option 20160224      2 P 0.0699  0.072 0.338171 0.365043 2016-Feb-16 09:31:59.936961
+10000539 Option 20160224   1.95 C 0.0412  0.043 0.361832 0.373071 2016-Feb-16 09:31:59.937015
+10000540 Option 20160224   1.95 P 0.0406 0.0419 0.349252 0.364804 2016-Feb-16 09:31:59.937049
+10000547 Option 20160224   1.85 C 0.1072 0.1107 0.350931 0.388623 2016-Feb-16 09:31:59.937088
+10000548 Option 20160224    1.9 C 0.0685 0.0714 0.344707 0.366614 2016-Feb-16 09:31:59.937167
+10000549 Option 20160224   1.85 P 0.0077 0.0078 0.344447  0.34816 2016-Feb-16 09:31:59.937213
+10000550 Option 20160224    1.9 P 0.0187 0.0202 0.337796 0.355757 2016-Feb-16 09:31:59.937255
+10000565 Option 20160224    1.8 C  0.155 0.1575 0.429207 0.459661 2016-Feb-16 09:31:59.937279
+10000566 Option 20160224    1.8 P 0.0026 0.0035 0.349589 0.375973 2016-Feb-16 09:31:59.937296
+Evaluating C option ID: 10000497...Bid volatility = 0.524942 Ask volatility = 0.565271
+Evaluating C option ID: 10000498...Bid volatility = 0.571004 Ask volatility = 0.614184
+Evaluating C option ID: 10000499...Bid volatility = 0.615715 Ask volatility = 0.66162
+Evaluating C option ID: 10000500...Bid volatility = 0.659172 Ask volatility = 0.707688
+Evaluating C option ID: 10000501...Bid volatility = 0.701459 Ask volatility = 0.729669
+Evaluating P option ID: 10000502...Bid volatility = -nan Ask volatility = 1.16104
+Evaluating P option ID: 10000503...Bid volatility = -nan Ask volatility = 2.03383
+Evaluating P option ID: 10000504...Bid volatility = 4.97803 Ask volatility = 2.04833
+Evaluating P option ID: 10000505...Bid volatility = -nan Ask volatility = 2.08065
+Evaluating P option ID: 10000506...Bid volatility = -nan Ask volatility = 2.22172
+Evaluating C option ID: 10000507...Bid volatility = 0.46374 Ask volatility = 0.496898
+Evaluating C option ID: 10000508...Bid volatility = 0.499075 Ask volatility = 0.528882
+Evaluating P option ID: 10000509...Bid volatility = -nan Ask volatility = 1.7331
+Evaluating P option ID: 10000510...Bid volatility = -nan Ask volatility = 0.8823
+Evaluating C option ID: 10000511...Bid volatility = 0.408128 Ask volatility = 0.422962
+Evaluating C option ID: 10000512...Bid volatility = 0.431686 Ask volatility = 0.447905
+Evaluating P option ID: 10000513...Bid volatility = -nan Ask volatility = 0.653897
+Evaluating P option ID: 10000514...Bid volatility = -nan Ask volatility = 1.62611
+Evaluating C option ID: 10000519...Bid volatility = 0.400635 Ask volatility = 0.410913
+Evaluating C option ID: 10000520...Bid volatility = 0.394589 Ask volatility = 0.405477
+Evaluating P option ID: 10000521...Bid volatility = 0.287645 Ask volatility = 0.399887
+Evaluating P option ID: 10000522...Bid volatility = -nan Ask volatility = 0.551524
+Evaluating C option ID: 10000527...Bid volatility = 0.3745 Ask volatility = 0.380784
+Evaluating P option ID: 10000528...Bid volatility = 0.326855 Ask volatility = 0.377412
+Evaluating C option ID: 10000533...Bid volatility = 0.368631 Ask volatility = 0.384328
+Evaluating P option ID: 10000534...Bid volatility = 0.338774 Ask volatility = 0.358651
+Evaluating C option ID: 10000539...Bid volatility = 0.353853 Ask volatility = 0.371107
+Evaluating P option ID: 10000540...Bid volatility = 0.35424 Ask volatility = 0.361028
+Evaluating C option ID: 10000547...Bid volatility = 0.368657 Ask volatility = 0.416072
+Evaluating C option ID: 10000548...Bid volatility = 0.360722 Ask volatility = 0.367726
+Evaluating P option ID: 10000549...Bid volatility = 0.350364 Ask volatility = 0.358572
+Evaluating P option ID: 10000550...Bid volatility = 0.337619 Ask volatility = 0.354682
+Evaluating C option ID: 10000565...Bid volatility = 0.389832 Ask volatility = 0.425169
+Evaluating P option ID: 10000566...Bid volatility = 0.353049 Ask volatility = 0.366263
+      ID   Type   Expiry Strike T    Bid    Ask   BidVol   AskVol        Last Update
+  510050 Equity        0      0 S  1.958  1.959        0        0 2016-Feb-16 09:32:55.065505
+10000497 Option 20160224    2.4 C 0.0002 0.0004 0.524942 0.565271 2016-Feb-16 09:32:47.103662
+10000498 Option 20160224   2.45 C 0.0002 0.0004 0.571004 0.614184 2016-Feb-16 09:32:03.441820
+10000499 Option 20160224    2.5 C 0.0002 0.0004 0.615715  0.66162 2016-Feb-16 09:32:53.110694
+10000500 Option 20160224   2.55 C 0.0002 0.0004 0.659172 0.707688 2016-Feb-16 09:32:03.441923
+10000501 Option 20160224    2.6 C 0.0002 0.0003 0.701459 0.729669 2016-Feb-16 09:32:55.068469
+10000502 Option 20160224    2.4 P 0.3912 0.4682     -nan  1.16104 2016-Feb-16 09:32:28.027734
+10000503 Option 20160224   2.45 P 0.4803 0.5825     -nan  2.03383 2016-Feb-16 09:32:46.624557
+10000504 Option 20160224    2.5 P 0.4828 0.6251  4.97803  2.04833 2016-Feb-16 09:32:28.027804
+10000505 Option 20160224   2.55 P  0.533   0.67     -nan  2.08065 2016-Feb-16 09:32:28.027822
+10000506 Option 20160224    2.6 P 0.5827  0.725     -nan  2.22172 2016-Feb-16 09:32:28.027871
+10000507 Option 20160224    2.3 C 0.0004 0.0007  0.46374 0.496898 2016-Feb-16 09:32:45.102663
+10000508 Option 20160224   2.35 C 0.0003 0.0005 0.499075 0.528882 2016-Feb-16 09:32:03.441992
+10000509 Option 20160224    2.3 P 0.3056 0.4331     -nan   1.7331 2016-Feb-16 09:32:28.027889
+10000510 Option 20160224   2.35 P 0.3937 0.4073     -nan   0.8823 2016-Feb-16 09:32:55.574163
+10000511 Option 20160224    2.2 C 0.0011 0.0014 0.408128 0.422962 2016-Feb-16 09:32:55.068501
+10000512 Option 20160224   2.25 C 0.0006 0.0008 0.431686 0.447905 2016-Feb-16 09:32:12.461959
+10000513 Option 20160224    2.2 P 0.2457 0.2581     -nan 0.653897 2016-Feb-16 09:32:55.574182
+10000514 Option 20160224   2.25 P 0.2856 0.3837     -nan  1.62611 2016-Feb-16 09:32:41.531854
+10000519 Option 20160224    2.1 C 0.0062 0.0069 0.400635 0.410913 2016-Feb-16 09:32:55.068551
+10000520 Option 20160224   2.15 C 0.0024 0.0028 0.394589 0.405477 2016-Feb-16 09:32:51.595204
+10000521 Option 20160224    2.1 P 0.1502  0.154 0.287645 0.399887 2016-Feb-16 09:32:56.065222
+10000522 Option 20160224   2.15 P 0.1972 0.2074     -nan 0.551524 2016-Feb-16 09:32:18.074209
+10000527 Option 20160224   2.05 C 0.0113  0.012   0.3745 0.380784 2016-Feb-16 09:32:55.068610
+10000528 Option 20160224   2.05 P 0.1065 0.1095 0.326855 0.377412 2016-Feb-16 09:32:55.574236
+10000533 Option 20160224      2 C 0.0229 0.0249 0.368631 0.384328 2016-Feb-16 09:32:52.081043
+10000534 Option 20160224      2 P 0.0686   0.07 0.338774 0.358651 2016-Feb-16 09:32:55.574277
+10000539 Option 20160224   1.95 C 0.0413 0.0438 0.353853 0.371107 2016-Feb-16 09:32:55.574301
+10000540 Option 20160224   1.95 P 0.0402 0.0405  0.35424 0.361028 2016-Feb-16 09:32:55.574339
+10000547 Option 20160224   1.85 C 0.1101 0.1144 0.368657 0.416072 2016-Feb-16 09:32:55.574372
+10000548 Option 20160224    1.9 C 0.0715 0.0729 0.360722 0.367726 2016-Feb-16 09:32:55.574438
+10000549 Option 20160224   1.85 P 0.0078 0.0082 0.350364 0.358572 2016-Feb-16 09:32:55.069002
+10000550 Option 20160224    1.9 P 0.0181 0.0195 0.337619 0.354682 2016-Feb-16 09:32:54.019361
+10000565 Option 20160224    1.8 C  0.155 0.1575 0.389832 0.425169 2016-Feb-16 09:32:55.574492
+10000566 Option 20160224    1.8 P 0.0026  0.003 0.353049 0.366263 2016-Feb-16 09:32:55.574528

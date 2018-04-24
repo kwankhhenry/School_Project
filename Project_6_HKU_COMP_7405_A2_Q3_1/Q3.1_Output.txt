@@ -1,0 +1,34 @@
+Testing parameters: S = 1.8; K = 1.95; t = 0; T = 3; r = 0.04; q = 0.2; C_true = 0.103532; P_true = 0.845166
+Goal: Expect implied volatility = 40% in both cases.
+
+Iterated 1 times. 
+Calculated CALL option price is: 0.24324
+Sigma for option is: 0.406364
+
+Iterated 2 times. 
+Calculated CALL option price is: 0.107452
+Sigma for option is: 0.400026
+
+Iterated 3 times. 
+Calculated CALL option price is: 0.103548
+Sigma for option is: 0.4
+
+Iterated 4 times. 
+Calculated CALL option price is: 0.103532
+Sigma for option is: 0.4
+
+Iterated 1 times. 
+Calculated PUT option price is: 0.984874
+Sigma for option is: 0.406364
+
+Iterated 2 times. 
+Calculated PUT option price is: 0.849086
+Sigma for option is: 0.400026
+
+Iterated 3 times. 
+Calculated PUT option price is: 0.845182
+Sigma for option is: 0.4
+
+Iterated 4 times. 
+Calculated PUT option price is: 0.845166
+Sigma for option is: 0.4

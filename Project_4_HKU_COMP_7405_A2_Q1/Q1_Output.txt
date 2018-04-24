@@ -1,0 +1,36 @@
+Question 1->(3.1) Paramemters are : S=100, K=100, t=0, T=0.5, sigma=20%, r=1% 
+Call option price is: 5.87602
+Put option price is: 5.37727
+
+Question 1->(3.2) Paramemters are : S=100, K=120, t=0, T=0.5, sigma=20%, r=1% 
+Call option price is: 0.774136
+Put option price is: 20.1756
+
+Question 1->(3.3) Paramemters are : S=100, K=100, t=0, T=1.0, sigma=20%, r=1% 
+Call option price is: 8.43331
+Put option price is: 7.43829
+
+Question 1->(3.4) Paramemters are : S=100, K=100, t=0, T=0.5, sigma=30%, r=1% 
+Call option price is: 8.67764
+Put option price is: 8.17889
+
+Question 1->(3.5) Paramemters are : S=100, K=100, t=0, T=0.5, sigma=20%, r=2% 
+Call option price is: 6.12065
+Put option price is: 5.12563
+
+Comments on Q1: Impacts on option value by each of the following parameters:
+a) Strike: Determines if the option has any intrinsic value, where the intrinsic value is the difference between the strike price (K) and the price of underlying asset (S).  Premium increases as the option becomes further in the money; Likewise, the premium of the option decreases when the option becomes further out-of-money.
+	Call Option: Given asset S=100, the call option with strike price at K=100 is at-the-money and just begin to intrinsic value for S > 100.  On the other hand, option at K=120 is far out-of-money and therfore has no intrinsic value and only time value at its price. The price of option is expected to be lower at higher strike price given the same value of underlying asset.
+	Put Option: Put option on the other hand, would have a lower value at K=100, because it is just at-the-money, compared to K=120 being deep in-the-money.  At K=120, an underlying asset with S=100 would be deep in the money and have positive P&L (positive intrinsic value) and therefore must be much more expensive than put option with strike K=100. 
+
+b) Maturity: The longer an option has until expiration (Greater T), the greater chance it will end up in-the-money(profitable), so the value of the option is higher with greater maturity period.  Both call and put options will have higher price at T=1.0 compared to base case with T=0.5. 
+	Call Option: The price of call option is expected to be higher with longer period of maturity.
+	Put Option: Similar to call option, the price of put option is also higher with greater T.
+
+c) Volatility: It is a measure of speed and magnitude of which an underlying asset price changes.  Therefore at higher volatility, we would expect the price of both call and put options to be higher.
+	Call Option: Call option price at sigma=30% is higher than price with sigma=20%.
+	Put Option: Put option price at sigma=30% is also higher than the price with sigma=20%.
+
+d) Risk Free Rate: Interest rates have small effects on option prices.  In general, as interest rate rises, call premiums increase and put premiums decrease.  Costs in interest will be incurred to buy the options.
+	Call Option: The price of call option will be higher at r=2%, compared to price at r=1%.  The magnitude of price changes is not as much compared to other parameter changes such as strike price, maturity or volatility.
+	Put Option: The price of put option will be lower at r=2% versus the price when r=1%.
