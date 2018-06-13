@@ -8,9 +8,9 @@ TARGET := main
 SRCEXT := cpp
 SOURCES := $(shell find $(SRCDIR) -type f -name '*.$(SRCEXT)')
 OBJECTS := $(patsubst $(SRCDIR)/%,$(BUILDDIR)/%,$(SOURCES:.$(SRCEXT)=.o))
-LIB := -L ~/CPP_Library/boost_1_67_0/lib		#Specify library Path
-LNK := -l boost_regex #Specify xxx suffix libxxx.a
-INC := -I ~/CPP_Library/boost_1_67_0/	#Specify include Path
+LIB := -L ~/CPP_Library/boost_1_67_0/lib -L ~/CPP_Library/QuantLib/lib		#Specify library Path
+LNK := -l boost_regex -l QuantLib#Specify xxx suffix libxxx.a
+INC := -I ~/CPP_Library/boost_1_67_0/include -I ~/CPP_Library/QuantLib/include	#Specify include Path
 
 $(TARGET): $(OBJECTS)
 	@echo " Linking..."
