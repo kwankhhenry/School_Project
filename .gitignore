@@ -1,4 +1,4 @@
 .:
 **/time/
-**/build/
+**/build/*.o
 main
