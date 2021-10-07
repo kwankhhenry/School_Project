@@ -1,6 +1,6 @@
 #Parameters and Flags
 CC	:= g++
-CFLAGS := -Wall#-g
+CFLAGS := -Wall -g
 SRCDIR := src
 BUILDDIR := build
 TARGET := main
